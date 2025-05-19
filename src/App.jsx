@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import Menu from './pages/Menu';
 import Cart from './pages/Cart';
 import Login from './pages/Login';
-import Checkout from './pages/Checkout';
+import Checkout from './pages/checkout';
 
 import { CartProvider } from './context/CartContext';
 
